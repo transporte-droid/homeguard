@@ -3,6 +3,9 @@
 #                BetBlocker list                 #
 ##################################################
 
+||betano.com^
+||betano.bet.br^
+||*.betano.bet.br^
 ||betano.bet
 ||br.betano.bet
 ||superbet.bet
