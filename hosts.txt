@@ -3,7 +3,7 @@
 #                BetBlocker list                 #
 ##################################################
 
-||br.catano.bet
+||br.betano.bet
 ||superbet.bet
 ||magicjackpot.cat.br
 ||luckydays.cat.br
