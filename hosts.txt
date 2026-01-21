@@ -3,6 +3,7 @@
 #                BetBlocker list                 #
 ##################################################
 
+||*.sofascore.com^
 ||sofascore.com^
 ||betano.com^
 ||betano.bet.br^
