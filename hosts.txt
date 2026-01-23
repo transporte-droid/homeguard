@@ -2,8 +2,13 @@
 # This list blocks a huge amount of gamble sites #
 #                BetBlocker list                 #
 ##################################################
+
+||*surfshark.com^
+||surfshark.com^
 ||*vpn^
 ||*.vpn^
+||*vpn.com^
+||*.vpn.com^
 ||*.sofascore.com^
 ||sofascore.com^
 ||betano.com^
