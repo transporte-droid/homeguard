@@ -3,6 +3,7 @@
 #                BetBlocker list                 #
 ##################################################
 ||*vpn^
+||*.vpn^
 ||*.sofascore.com^
 ||sofascore.com^
 ||betano.com^
